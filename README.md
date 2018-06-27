@@ -10,3 +10,11 @@ https://egghead.io/lessons/react-redux-the-single-immutable-state-tree
 You can click the counter live on the internet here:
 
 https://iarobinson.github.io/reduxCounter/
+
+# Adding Incremet, Decrement and React
+
+Again, following along with Dan Abramov!
+
+https://egghead.io/lessons/react-redux-react-counter-example
+
+:)
