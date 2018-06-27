@@ -5,3 +5,8 @@ The code included in this file is a product of me watching a tutorial closely an
 Here is a link to the excellent video tutorial:
 https://egghead.io/lessons/react-redux-the-single-immutable-state-tree
 
+## See it live
+
+You can click the counter live on the internet here:
+
+https://iarobinson.github.io/reduxCounter/
